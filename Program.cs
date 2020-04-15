@@ -12,6 +12,7 @@ namespace test
         {
             Console.WriteLine("Hell");
             Console.WriteLine("OOOOO");
+            Console.WriteLine("Not works");
             Console.ReadKey();
         }
     }
